@@ -1,0 +1,1 @@
+Inventario de la tienda.
